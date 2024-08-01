@@ -14,4 +14,5 @@ st.header('Courses')
 st.subheader('DSMP')
 st.subheader('DAMP')
 st.subheader('DEMP')
+st.subheader('DSA')
 
